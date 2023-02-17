@@ -41,5 +41,3 @@ python main.py
 <img src="script.png" />
 
 ##### Thanks you very much for everything and the opportunity
-# simpleenergy
-# simpleenergy
