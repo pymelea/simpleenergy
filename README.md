@@ -1,6 +1,6 @@
 # Script for test the Junior/Pleno job in SimpleEnergy
 <hr>
-<img src="code.png"/>
+<img src="img/code.png"/>
 <hr>
 <br>
 <br>
@@ -38,6 +38,6 @@ does the rest and returns a json file with the necessary information.<br>
 ```zsh
 python main.py
 ```
-<img src="script.png" />
+<img src="img/script.png" />
 
 ##### Thanks you very much for everything and the opportunity
